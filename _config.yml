@@ -1,9 +1,14 @@
 theme: jekyll-theme-minimal
 title: From Hops to Glass
 description: A Comprehensive Analysis of Beer Characteristics
-show_downloads: True
+show_downloads: false
 navigation:
   - title: Home
     url: /
   - title: Example
     url: example
+plugins:
+  - jekyll-livereload
+
+livereload:
+  enabled: true
