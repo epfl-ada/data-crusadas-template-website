@@ -7,6 +7,9 @@ navigation:
     url: /
   - title: Example
     url: example
+  - title: Cluster0
+    url: clusters/cluster0
+
 plugins:
   - jekyll-livereload
 
